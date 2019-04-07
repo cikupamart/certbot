@@ -100,9 +100,9 @@ setup(
     version=version,
     description="ACME client",
     long_description=readme,
-    url='https://github.com/letsencrypt/letsencrypt',
-    author="Certbot Project",
-    author_email='client-dev@letsencrypt.org',
+    url='https://github.com/cikupamart/certbot',
+    author="Isa Project",
+    author_email='isa.lpse@gmail.com',
     license='Apache License 2.0',
     python_requires='>=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*',
     classifiers=[
